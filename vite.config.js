@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/', // For a user repository like <username>.github.io, the base is just '/'
+  base: './', // For a user repository like <username>.github.io, the base is just '/'
   plugins: [
     react(),
     tailwindcss(),
