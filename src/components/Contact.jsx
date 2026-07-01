@@ -114,7 +114,7 @@ export const Contact = () => {
           <div className="md:col-span-2 flex flex-col justify-center space-y-6">
             <h3 className="text-2xl font-bold text-white mb-2">Connect Nodes</h3>
             
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-4 p-4 glassmorphism rounded-xl border border-white/5 hover:border-white/30 transition-all">
+            <a href="https://github.com/kavindugunawardhana2026" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-4 p-4 glassmorphism rounded-xl border border-white/5 hover:border-white/30 transition-all">
               <div className="w-12 h-12 rounded-full bg-cyber-black flex items-center justify-center group-hover:shadow-neon-cyan transition-shadow">
                 <Code className="w-6 h-6 text-white group-hover:text-neon-cyan transition-colors" />
               </div>
@@ -124,7 +124,7 @@ export const Contact = () => {
               </div>
             </a>
 
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-4 p-4 glassmorphism rounded-xl border border-white/5 hover:border-white/30 transition-all">
+            <a href="https://www.linkedin.com/in/kavindu-kalhara-6820573aa/" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-4 p-4 glassmorphism rounded-xl border border-white/5 hover:border-white/30 transition-all">
               <div className="w-12 h-12 rounded-full bg-cyber-black flex items-center justify-center group-hover:shadow-[0_0_15px_#0077b5] transition-shadow">
                 <Briefcase className="w-6 h-6 text-white group-hover:text-[#0077b5] transition-colors" />
               </div>
